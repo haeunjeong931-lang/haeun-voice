@@ -1,0 +1,11 @@
+# 개인 음성 데이터와 학습된 모델은 올리지 않음
+*.wav
+*.mp3
+*.pth
+*.ckpt
+*.list
+outputs/
+voice-data/
+__pycache__/
+*.log
+server-log.txt
